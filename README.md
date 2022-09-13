@@ -4,7 +4,7 @@ Una implementación de Forge en Bukkit utilizando Mixins
 
 ![Actions](https://img.shields.io/github/workflow/status/IzzelAliz/Arclight/Java%20CI%20with%20Gradle?style=flat-square)  ![GitHub](https://img.shields.io/github/license/IzzelAliz/Arclight?style=flat-square)
 
-| Minecraft |  Forge  | Status |                                                                         Build                                                                          |
+| Minecraft |  Forge  | Estado |                                                                         Build                                                                          |
 |:---------:|:-------:| :---: |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1.19.x   | 43.1.3  | ACTIVO | [![1.19 Status](https://img.shields.io/appveyor/build/IzzelAliz/arclight-19?style=flat-square)](https://ci.appveyor.com/project/IzzelAliz/arclight-19) |
 |  1.18.x   | 40.1.80 | ACTIVO | [![1.18 Status](https://img.shields.io/appveyor/build/IzzelAliz/arclight-18?style=flat-square)](https://ci.appveyor.com/project/IzzelAliz/arclight-18) |
